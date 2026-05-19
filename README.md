@@ -15,4 +15,4 @@ This dashboard provides insights into IPL team and player performance using Powe
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](IPL%20Performance%20Analytics%20Dashboard-1.png)
